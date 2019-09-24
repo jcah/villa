@@ -633,10 +633,14 @@ body {
     html {
         font-size: 16px
     }
+
+    /*
     .bienvenidos {
         background: url("../images/fondo-encabezado-grande.jpg") no-repeat center top;
         background-size: cover
     }
+
+    */
     .tu-mejor-eleccion ul li {
         display: -webkit-box;
         display: -webkit-flex;
@@ -683,10 +687,12 @@ body {
         font-size: .85rem;
         width: 100%
     }
+    /*
     .servicios {
         background: url("../images/fondo-servicios-grande.jpg") no-repeat center center;
         background-size: cover
     }
+    */
 }
 
 
